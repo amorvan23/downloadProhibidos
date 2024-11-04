@@ -16,7 +16,11 @@
 - Haz clic en 'Install Now' y espera a que la instalación termine.
 - Una vez completada, vuelve a verificar la instalación repitiendo el primer paso de este tutorial.
 
-## Paso 2: Instalar las Dependencias Necesarias
+## Paso 2: Descargar el proyecto e Instalar las Dependencias Necesarias
+
+Link de descarga del proyecto: https://drive.google.com/file/d/1MKFOEbfTsUgb1GxMTB712nK3v2UZVAhm/view?usp=sharing
+
+- Descomprimir Zip descargado y situarlo en el lugar deseado (Depende del sitio donde se situe, el sistema necesitará permisos de administrador para descargar ficheros de forma automática)
 
 Para que el sistema funcione correctamente, necesitarás instalar ciertas bibliotecas de Python. Esto se puede hacer de dos maneras:
 
